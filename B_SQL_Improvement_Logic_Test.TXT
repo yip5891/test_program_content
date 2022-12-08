@@ -1,0 +1,4 @@
+Solution: Add key index to join table. 
+1.) Describe [query] 
+2.) can get result for main table 'jobs' join table with how many rows table join   
+3.) add the key index through table to descrease table row join 
