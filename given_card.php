@@ -63,16 +63,4 @@ $aJson["data"] = $player;
 
 echo json_encode($aJson);
 exit;
-
-
-// $aJson["data"]["player"] = $player;
-// $aJson["data"]["count"] = sizeof($arrCards);
-//  echo json_encode($aJson);
-//  exit;
-
-// $aJson["data"]["cards"] = $arrCards;
-// $aJson["data"]["count"] = sizeof($arrCards);
-//  echo json_encode($aJson);
-//  exit;
-
 ?>
